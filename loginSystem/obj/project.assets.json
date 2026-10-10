@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/C-Sharp-Testing/MyApp/MyApp.csproj",
-      "projectName": "MyApp",
-      "projectPath": "/workspaces/C-Sharp-Testing/MyApp/MyApp.csproj",
+      "projectUniqueName": "/workspaces/C-Sharp-Testing/loginSystem/loginSystem.csproj",
+      "projectName": "loginSystem",
+      "projectPath": "/workspaces/C-Sharp-Testing/loginSystem/loginSystem.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/C-Sharp-Testing/MyApp/obj/",
+      "outputPath": "/workspaces/C-Sharp-Testing/loginSystem/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"

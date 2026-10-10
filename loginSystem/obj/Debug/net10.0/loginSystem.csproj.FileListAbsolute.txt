@@ -1,0 +1,15 @@
+/workspaces/C-Sharp-Testing/loginSystem/bin/Debug/net10.0/loginSystem
+/workspaces/C-Sharp-Testing/loginSystem/bin/Debug/net10.0/loginSystem.deps.json
+/workspaces/C-Sharp-Testing/loginSystem/bin/Debug/net10.0/loginSystem.runtimeconfig.json
+/workspaces/C-Sharp-Testing/loginSystem/bin/Debug/net10.0/loginSystem.dll
+/workspaces/C-Sharp-Testing/loginSystem/bin/Debug/net10.0/loginSystem.pdb
+/workspaces/C-Sharp-Testing/loginSystem/obj/Debug/net10.0/loginSystem.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-Sharp-Testing/loginSystem/obj/Debug/net10.0/loginSystem.AssemblyInfoInputs.cache
+/workspaces/C-Sharp-Testing/loginSystem/obj/Debug/net10.0/loginSystem.AssemblyInfo.cs
+/workspaces/C-Sharp-Testing/loginSystem/obj/Debug/net10.0/loginSystem.csproj.CoreCompileInputs.cache
+/workspaces/C-Sharp-Testing/loginSystem/obj/Debug/net10.0/loginSystem.sourcelink.json
+/workspaces/C-Sharp-Testing/loginSystem/obj/Debug/net10.0/loginSystem.dll
+/workspaces/C-Sharp-Testing/loginSystem/obj/Debug/net10.0/refint/loginSystem.dll
+/workspaces/C-Sharp-Testing/loginSystem/obj/Debug/net10.0/loginSystem.pdb
+/workspaces/C-Sharp-Testing/loginSystem/obj/Debug/net10.0/loginSystem.genruntimeconfig.cache
+/workspaces/C-Sharp-Testing/loginSystem/obj/Debug/net10.0/ref/loginSystem.dll

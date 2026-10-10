@@ -1,0 +1,15 @@
+/workspaces/C-Sharp-Testing/GuessingGame/obj/Debug/net10.0/GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-Sharp-Testing/GuessingGame/obj/Debug/net10.0/GuessingGame.AssemblyInfoInputs.cache
+/workspaces/C-Sharp-Testing/GuessingGame/obj/Debug/net10.0/GuessingGame.AssemblyInfo.cs
+/workspaces/C-Sharp-Testing/GuessingGame/obj/Debug/net10.0/GuessingGame.csproj.CoreCompileInputs.cache
+/workspaces/C-Sharp-Testing/GuessingGame/obj/Debug/net10.0/GuessingGame.sourcelink.json
+/workspaces/C-Sharp-Testing/GuessingGame/bin/Debug/net10.0/GuessingGame
+/workspaces/C-Sharp-Testing/GuessingGame/bin/Debug/net10.0/GuessingGame.deps.json
+/workspaces/C-Sharp-Testing/GuessingGame/bin/Debug/net10.0/GuessingGame.runtimeconfig.json
+/workspaces/C-Sharp-Testing/GuessingGame/bin/Debug/net10.0/GuessingGame.dll
+/workspaces/C-Sharp-Testing/GuessingGame/bin/Debug/net10.0/GuessingGame.pdb
+/workspaces/C-Sharp-Testing/GuessingGame/obj/Debug/net10.0/GuessingGame.dll
+/workspaces/C-Sharp-Testing/GuessingGame/obj/Debug/net10.0/refint/GuessingGame.dll
+/workspaces/C-Sharp-Testing/GuessingGame/obj/Debug/net10.0/GuessingGame.pdb
+/workspaces/C-Sharp-Testing/GuessingGame/obj/Debug/net10.0/GuessingGame.genruntimeconfig.cache
+/workspaces/C-Sharp-Testing/GuessingGame/obj/Debug/net10.0/ref/GuessingGame.dll
