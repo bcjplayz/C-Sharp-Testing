@@ -1,0 +1,15 @@
+/workspaces/C-Sharp-Testing/MyApp/bin/Debug/net10.0/MyApp
+/workspaces/C-Sharp-Testing/MyApp/bin/Debug/net10.0/MyApp.deps.json
+/workspaces/C-Sharp-Testing/MyApp/bin/Debug/net10.0/MyApp.runtimeconfig.json
+/workspaces/C-Sharp-Testing/MyApp/bin/Debug/net10.0/MyApp.dll
+/workspaces/C-Sharp-Testing/MyApp/bin/Debug/net10.0/MyApp.pdb
+/workspaces/C-Sharp-Testing/MyApp/obj/Debug/net10.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-Sharp-Testing/MyApp/obj/Debug/net10.0/MyApp.AssemblyInfoInputs.cache
+/workspaces/C-Sharp-Testing/MyApp/obj/Debug/net10.0/MyApp.AssemblyInfo.cs
+/workspaces/C-Sharp-Testing/MyApp/obj/Debug/net10.0/MyApp.csproj.CoreCompileInputs.cache
+/workspaces/C-Sharp-Testing/MyApp/obj/Debug/net10.0/MyApp.sourcelink.json
+/workspaces/C-Sharp-Testing/MyApp/obj/Debug/net10.0/MyApp.dll
+/workspaces/C-Sharp-Testing/MyApp/obj/Debug/net10.0/refint/MyApp.dll
+/workspaces/C-Sharp-Testing/MyApp/obj/Debug/net10.0/MyApp.pdb
+/workspaces/C-Sharp-Testing/MyApp/obj/Debug/net10.0/MyApp.genruntimeconfig.cache
+/workspaces/C-Sharp-Testing/MyApp/obj/Debug/net10.0/ref/MyApp.dll
