@@ -9,5 +9,9 @@ just individual projects to test my C#.
 - Writing a Line (A print/output)
 - If, else if, else
 - random integers
+- input validation
+- file handling (adding things to lists, making new files, etc)
+- arrays
+- boolean flags
 
-Hopefully i can learn how to make c# html projects eventually.
+my goal is to eventually use C# to my html projects. The game dev option is also there too thanks to unity
