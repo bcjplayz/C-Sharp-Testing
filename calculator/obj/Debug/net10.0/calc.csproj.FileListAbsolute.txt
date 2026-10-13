@@ -1,0 +1,15 @@
+/workspaces/C-Sharp-Testing/calculator/obj/Debug/net10.0/calc.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-Sharp-Testing/calculator/obj/Debug/net10.0/calc.AssemblyInfoInputs.cache
+/workspaces/C-Sharp-Testing/calculator/obj/Debug/net10.0/calc.AssemblyInfo.cs
+/workspaces/C-Sharp-Testing/calculator/obj/Debug/net10.0/calc.csproj.CoreCompileInputs.cache
+/workspaces/C-Sharp-Testing/calculator/obj/Debug/net10.0/calc.sourcelink.json
+/workspaces/C-Sharp-Testing/calculator/bin/Debug/net10.0/calc
+/workspaces/C-Sharp-Testing/calculator/bin/Debug/net10.0/calc.deps.json
+/workspaces/C-Sharp-Testing/calculator/bin/Debug/net10.0/calc.runtimeconfig.json
+/workspaces/C-Sharp-Testing/calculator/bin/Debug/net10.0/calc.dll
+/workspaces/C-Sharp-Testing/calculator/bin/Debug/net10.0/calc.pdb
+/workspaces/C-Sharp-Testing/calculator/obj/Debug/net10.0/calc.dll
+/workspaces/C-Sharp-Testing/calculator/obj/Debug/net10.0/refint/calc.dll
+/workspaces/C-Sharp-Testing/calculator/obj/Debug/net10.0/calc.pdb
+/workspaces/C-Sharp-Testing/calculator/obj/Debug/net10.0/calc.genruntimeconfig.cache
+/workspaces/C-Sharp-Testing/calculator/obj/Debug/net10.0/ref/calc.dll
