@@ -41,8 +41,6 @@ else if(mode == "divide")
         Console.WriteLine("Cannot divide by zero!");
     }
 
-    else if()
-
     else
     {
         Console.WriteLine($"Answer: {num1 / num2}");
